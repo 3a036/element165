@@ -1,8 +1,8 @@
 # element165 
 
-Reference: Loreleiu T Caron
+Reference: Lorelei u T C (ARON) Peters
 
 Error checking anti-conflict GAN service.
-ECACG
+[ECACG]
 
 CAI generated README.md which will be updated frequently.
